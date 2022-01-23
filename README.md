@@ -1,3 +1,10 @@
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+   <!-- I'm <a href="">Atif Imam</a>!  -->
+</h2>
+<h4 align='center'>
+ (Big) Data Engineer
+</h4>
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Atif8ted&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atif8ted&include_all_commits=true&hide_border=true&theme=dark"/>
