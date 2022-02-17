@@ -8,7 +8,7 @@
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Atif8ted&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atif8ted&include_all_commits=true&hide_border=true&theme=dark"/>
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif8ted&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif8ted&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=false&hide_progress=true&hide_border=true&theme=dark&hide=">
 	<img width="450em"/>
 </p>
 
