@@ -11,13 +11,12 @@
 <!-- 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif8ted&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=false&hide_progress=true&hide_border=true&theme=dark&hide=">
 	<img width="450em"/> -->
 </p>
+<h3> About me.  </h3>
+<h5> I have interest in engineering, Programming , opensource and Data. I am open to collaborate on opensource project. </h5>
+<br>
+How to reach me?: <br>
+Linkedin: https://www.linkedin.com/in/atifimam/
 
-# Languages
-
-(Most used languages by number of commits)
-<p align="center">
-	<a href="https://profile.codersrank.io/user/Atif8ted#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white"></a>
-</p>
 
 
 
